@@ -2,7 +2,7 @@ package 재귀;
 
 import java.util.Scanner;
 
-public class 피보나치수5_10870번 {
+public class 백준_피보나치수5_10870번 {
 	static int[]fibo;
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

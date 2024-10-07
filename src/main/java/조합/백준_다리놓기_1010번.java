@@ -2,7 +2,7 @@ package 조합;
 
 import java.util.Scanner;
 
-public class 다리놓기_1010번 {
+public class 백준_다리놓기_1010번 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

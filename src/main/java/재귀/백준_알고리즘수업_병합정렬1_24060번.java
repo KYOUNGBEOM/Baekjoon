@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-public class 알고리즘수업_병합정렬1_24060번 {
+public class 백준_알고리즘수업_병합정렬1_24060번 {
 	static List<Integer> ans;
 	static int N,K;
 	public static void main(String[] args) throws IOException {

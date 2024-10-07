@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class 특정거리의도시찾기_18352번 {
+public class 백준_특정거리의도시찾기_18352번 {
 	static ArrayList<Integer>[] city;
 	static boolean[] visited;
 	static int[] distance;

@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class 효율적인해킹_1325번 {
+public class 백준_효율적인해킹_1325번 {
 	static ArrayList<Integer>[] com;
 	static boolean[] visited;
 	static int[] ans;

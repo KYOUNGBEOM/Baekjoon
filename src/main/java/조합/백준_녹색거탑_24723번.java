@@ -1,7 +1,7 @@
 package 조합;
 import java.util.Scanner;
 
-public class 녹색거탑_24723번 {
+public class 백준_녹색거탑_24723번 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		

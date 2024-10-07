@@ -2,7 +2,7 @@ package 재귀;
 
 import java.util.Scanner;
 
-public class 재귀의귀재_25501번 {
+public class 백준_재귀의귀재_25501번 {
 	static int depth;
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
